@@ -52,8 +52,3 @@ async function main(){
 }
 
 main();
-
-class Produto {
-  constructor(nome='', qtdeEstoque='')  
-}
-
